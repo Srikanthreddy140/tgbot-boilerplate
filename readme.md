@@ -14,7 +14,7 @@ Follow these simple steps to set up your Telegram bot using this boilerplate:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/biisal/boilerplate.git
+git clone https://github.com/biisal/tgbot-boilerplate.git
 cd boilerplate
 ```
 ### 2. Install Dependencies
